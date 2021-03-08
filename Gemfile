@@ -4,7 +4,7 @@ gem 'rails',        '5.1.6'
 gem 'bcrypt',       '3.1.12'
 gem 'faker',        '1.4.2'
 gem 'carrierwave',   '1.3.2'
-gem 'mini_magick',    '4.9.4'
+gem 'mini_magick',    '4.11.0'
 gem 'will_paginate', '3.3.0'
 gem 'bootstrap-will_paginate', '0.0.10'
 
