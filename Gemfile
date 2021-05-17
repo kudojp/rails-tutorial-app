@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails',        '5.1.6.2'
 gem 'bcrypt',       '3.1.16'
-gem 'faker',        '1.4.2'
+gem 'faker',        '2.18.0'
 gem 'carrierwave',   '2.2.1'
 gem 'mini_magick',    '4.11.0'
 gem 'will_paginate', '3.3.0'
